@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost:86/pagosenlinea2/index.php';
+$config['base_url'] = 'http://localhost:86/zeus';
 //$config['base_url'] = 'http://172.24.12.29:86/pagosenlinea/index.php';
 /*
 |--------------------------------------------------------------------------

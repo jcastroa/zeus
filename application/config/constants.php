@@ -88,6 +88,6 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 define('SERVER_AP', 'localhost:86');
 //define('SERVER_AP', '172.24.12.29:86');
-define('PROJECT_NAME', 'pagosenlinea2');
+define('PROJECT_NAME', 'zeus');
 define('MAIN_URL', 'http://' . SERVER_AP . '/' . PROJECT_NAME);
 define('MAIN_URL_PUBLIC', 'http://' . SERVER_AP . '/' . PROJECT_NAME . '/public/');
